@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "multi-mod:block/acorn_block"
+    }
+  }
+}

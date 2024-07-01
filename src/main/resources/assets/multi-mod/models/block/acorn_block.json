@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "multi-mod:block/acorn_block_bottom",
+    "north": "multi-mod:block/acorn_block_side",
+    "south": "multi-mod:block/acorn_block_side",
+    "east": "multi-mod:block/acorn_block_side",
+    "west": "multi-mod:block/acorn_block_side",
+    "up": "multi-mod:block/acorn_block_top",
+    "particle": "multi-mod:block/acorn_block_side"
+  }
+}

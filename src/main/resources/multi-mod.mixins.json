@@ -1,0 +1,17 @@
+{
+	"required": true,
+	"package": "net.almer.multi_mod.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ShieldItemMixin",
+		"ServerPlayerEntityMixin",
+		"LivingEntityMixin"
+	],
+	"client": [
+		"ItemColorsMixin",
+		"MinecraftClientMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

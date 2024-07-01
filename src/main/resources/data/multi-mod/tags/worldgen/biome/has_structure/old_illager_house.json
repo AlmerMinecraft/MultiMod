@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:plains",
+    "minecraft:snowy_plains"
+  ]
+}

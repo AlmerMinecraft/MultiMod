@@ -1,0 +1,36 @@
+{
+  "itemgroup.multi_mod": "Мульти-Мод",
+
+  "item.multi-mod.mosquito_spawn_egg": "Яйцо призыва комара",
+  "entity.multi-mod.mosquito": "Комар",
+  "subtitles.multi-mod.mosquito_ambient": "Комар пищит",
+
+  "item.multi-mod.freezombe_spawn_egg": "Яйцо призыва фризомбе",
+  "entity.multi-mod.freezombe": "Фризомбе",
+
+  "item.multi-mod.old_illager_spawn_egg": "Яйцо призыва старого зловреда",
+  "entity.multi-mod.old_illager": "Старый зловред",
+  "item.multi-mod.old_ravager_spawn_egg": "Яйцо призыва старого разорителя",
+  "entity.multi-mod.old_ravager": "Старый разоритель",
+
+  "block.multi-mod.empty_log": "Опустелое бревно",
+  "item.multi-mod.empty_bark": "Опустелая кора",
+
+  "item.multi-mod.leather_chestplate_with_pockets": "Кожаная куртка с карманами",
+  "category.multi-mod.keybinds": "Мульти-мод",
+  "key.multi-mod.pockets": "Открыть карманы",
+  "screen.multi-mod.pocket": "Карманы",
+
+  "item.multi-mod.netherite_book": "Незеритовая книга",
+
+  "item.multi-mod.acorn": "Жёлудь",
+  "item.multi-mod.cooked_acorn": "Жареный жёлудь",
+  "item.multi-mod.hog_tooth": "Клык кабана",
+  "item.multi-mod.tooth_sword": "Меч из клыков",
+  "item.multi-mod.tooth_arrow": "Стрела из клыка",
+  "block.multi-mod.acorn_block": "Желудёвый блок",
+  "item.multi-mod.hog_spawn_egg": "Яйцо призыва кабана",
+  "entity.multi-mod.hog": "Кабан",
+
+  "item.multi-mod.collar_of_undying": "Ошейник бессмертия"
+}

@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "multi-mod:block/empty_log_horizontal",
+      "y": 90
+    },
+    "axis=y": {
+      "model": "multi-mod:block/empty_log"
+    },
+    "axis=z": {
+      "model": "multi-mod:block/empty_log_horizontal"
+    }
+  }
+}

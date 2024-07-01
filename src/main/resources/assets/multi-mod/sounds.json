@@ -1,0 +1,8 @@
+{
+  "mosquito_ambient": {
+    "subtitle": "subtitles.multi-mod.mosquito_ambient",
+    "sounds": [
+      "multi-mod:mosquito_ambient"
+    ]
+  }
+}

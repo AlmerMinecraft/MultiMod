@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:leather"
+    },
+    "X": {
+      "item": "minecraft:leather_chestplate"
+    }
+  },
+  "pattern": [
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "multi-mod:leather_chestplate_with_pockets"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "itemgroup.multi_mod": "Multi Mod",
+
+  "item.multi-mod.mosquito_spawn_egg": "Mosquito Spawn Egg",
+  "entity.multi-mod.mosquito": "Mosquito",
+  "subtitles.multi-mod.mosquito_ambient": "Mosquito squeaks",
+
+  "item.multi-mod.freezombe_spawn_egg": "Freezombe Spawn Egg",
+  "entity.multi-mod.freezombe": "Freezombe",
+
+  "item.multi-mod.old_illager_spawn_egg": "Old Illager Spawn Egg",
+  "entity.multi-mod.old_illager": "Old Illager",
+  "item.multi-mod.old_ravager_spawn_egg": "Old Ravager Spawn Egg",
+  "entity.multi-mod.old_ravager": "Old Ravager",
+
+  "block.multi-mod.empty_log": "Empty Log",
+  "item.multi-mod.empty_bark": "Empty Bark",
+
+  "item.multi-mod.leather_chestplate_with_pockets": "Leather Tunic With Pockets",
+  "category.multi-mod.keybinds": "Multi Mod",
+  "key.multi-mod.pockets": "Open Pockets",
+  "screen.multi-mod.pocket": "Pockets",
+
+  "item.multi-mod.netherite_book": "Netherite Book",
+
+  "item.multi-mod.acorn": "Acorn",
+  "item.multi-mod.cooked_acorn": "Cooked Acorn",
+  "item.multi-mod.hog_tooth": "Hog Tooth",
+  "item.multi-mod.tooth_sword": "Tooth Sword",
+  "item.multi-mod.tooth_arrow": "Tooth Arrow",
+  "block.multi-mod.acorn_block": "Acorn Block",
+  "item.multi-mod.hog_spawn_egg": "Hog Spawn Egg",
+  "entity.multi-mod.hog": "Hog",
+
+  "item.multi-mod.collar_of_undying": "Collar Of Undying"
+}

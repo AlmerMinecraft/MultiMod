@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "multi-mod:hog_tooth"
+    },
+    "X": {
+      "item": "minecraft:stick"
+    },
+    "$": {
+      "item": "minecraft:feather"
+    }
+  },
+  "pattern": [
+    "#",
+    "X",
+    "$"
+  ],
+  "result": {
+    "count": 2,
+    "id": "multi-mod:tooth_arrow"
+  }
+}
